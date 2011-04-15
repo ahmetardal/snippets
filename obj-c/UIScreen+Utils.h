@@ -3,7 +3,7 @@
 //  LiveGO
 //
 //  Created by Ahmet Ardal on 2/3/11.
-//  Copyright 2011 MessengerFX. All rights reserved.
+//  Copyright 2011 Ahmet Ardal. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
